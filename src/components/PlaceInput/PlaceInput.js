@@ -1,36 +1,37 @@
-import React from "react";
-import { TextInput, View, StyleSheet, Button } from "react-native";
+import React, { Component } from "react";
+import { View, TextInput, Button, StyleSheet } from "react-native";
 
-export class PlaceInput extends React.Component {
+class PlaceInput extends Component {
   state = {
-    placename: ""
+    placeName: ""
   };
 
-  placenameChangeHandler = val => {
+  placeNameChangedHandler = val => {
     this.setState({
-      placename: val
+      placeName: val
     });
   };
 
-  placeSubmitHandler = ()=>{
-    if(this.state.placename.trim() === ''){
-        return;
+  placeSubmitHandler = () => {
+    if (this.state.placeName.trim() === "") {
+      return;
     }
-    this.props.onPlaceAdded(this.state.placename);
-  }
+
+    this.props.onPlaceAdded(this.state.placeName);
+  };
 
   render() {
     return (
       <View style={styles.inputContainer}>
         <TextInput
+          placeholder="An awesome place"
+          value={this.state.placeName}
+          onChangeText={this.placeNameChangedHandler}
           style={styles.placeInput}
-          placeholder="Awesome Place"
-          value={this.state.placename}
-          onChangeText={this.placenameChangeHandler}
         />
         <Button
-          style={styles.placeButton}
           title="Add"
+          style={styles.placeButton}
           onPress={this.placeSubmitHandler}
         />
       </View>
@@ -39,19 +40,18 @@ export class PlaceInput extends React.Component {
 }
 
 const styles = StyleSheet.create({
-  placeButton: {
-    width: "30%"
-  },
   inputContainer: {
-    //flex:1,
+    // flex: 1,
+    width: "100%",
     flexDirection: "row",
-    //alignContent:'center',
     justifyContent: "space-between",
-    alignItems: "center",
-    width: "100%"
+    alignItems: "center"
   },
   placeInput: {
     width: "70%"
+  },
+  placeButton: {
+    width: "30%"
   }
 });
 
