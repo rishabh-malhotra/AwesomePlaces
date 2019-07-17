@@ -5,6 +5,7 @@ INJECTED from D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\andr
 INJECTED from D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\android\app\src\main\AndroidManifest.xml:1:1-26:12
 INJECTED from D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\android\app\src\main\AndroidManifest.xml:1:1-26:12
 MERGED from D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-vector-icons] D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.react:react-native:0.59.8] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\jetified-react-native-0.59.8.aar\5ef72bc0e9ae919b5904913cd8cd6a9c\AndroidManifest.xml:2:1-13:12
 MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\42907c791504667ab7bf946b5ba60016\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\d966af50e0f6848cac170e056abf7206\AndroidManifest.xml:17:1-22:12
@@ -129,6 +130,8 @@ uses-sdk
 INJECTED from D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\android\app\src\main\AndroidManifest.xml
 INJECTED from D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-vector-icons] D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.59.8] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\jetified-react-native-0.59.8.aar\5ef72bc0e9ae919b5904913cd8cd6a9c\AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.59.8] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\jetified-react-native-0.59.8.aar\5ef72bc0e9ae919b5904913cd8cd6a9c\AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\42907c791504667ab7bf946b5ba60016\AndroidManifest.xml:20:5-44
