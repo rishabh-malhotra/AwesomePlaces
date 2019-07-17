@@ -8,9 +8,9 @@ import configureStore from './src/store/configureStore'
 const store=configureStore();
 
 //Register screens
-Navigation.registerComponent("awesome-places.AuthScreen",()=>AuthScreen,store,Provider);
-Navigation.registerComponent("awesome-places.FindPlace",()=>FindPlace,store,Provider);
-Navigation.registerComponent("awesome-places.SharePlace",()=>SharePlace,store,Provider);
+Navigation.registerComponentWithRedux("awesome-places.AuthScreen",()=>AuthScreen,Provider,store);
+Navigation.registerComponentWithRedux("awesome-places.FindPlace",()=>FindPlace,Provider,store);
+Navigation.registerComponentWithRedux("awesome-places.SharePlace",()=>SharePlace,Provider,store);
 
 //start the app
 
