@@ -4,7 +4,23 @@ import { connect } from "react-redux";
 import PlaceList from '../../components/PlaceList/PlaceList'
 import {Navigation} from 'react-native-navigation'
 class FindPlace extends Component{
-    
+    constructor(props){
+      super(props);
+      Navigation.events().bindComponent(this);
+      this.isSideDrawerVisible = false;
+    }
+    navigationButtonPressed({buttonId}) {
+      if (buttonId === "btn_toggle_drawer") {
+        (!this.isSideDrawerVisible) ? this.isSideDrawerVisible = true : this.isSideDrawerVisible = false
+          Navigation.mergeOptions(this.props.componentId, {
+              sideMenu: {
+                  left: {
+                      visible:  this.isSideDrawerVisible
+                  }
+              }
+          });
+      }
+  }
     itemSelectedHandler=(key)=>{
         const selPlace=this.props.places.find(place=>{
             return place.key===key

@@ -7,7 +7,23 @@ import PlaceInput from '../../components/PlaceInput/PlaceInput'
 import {Navigation} from 'react-native-navigation'
 
 class SharePlace extends Component{
-    
+    constructor(props){
+        super(props);
+        Navigation.events().bindComponent(this);
+        this.isSideDrawerVisible = false;
+      }
+      navigationButtonPressed({buttonId}) {
+        if (buttonId === "btn_toggle_drawer2") {
+          (!this.isSideDrawerVisible) ? this.isSideDrawerVisible = true : this.isSideDrawerVisible = false
+            Navigation.mergeOptions(this.props.componentId, {
+                sideMenu: {
+                    left: {
+                        visible:  this.isSideDrawerVisible
+                    }
+                }
+            });
+        }
+    }
     
 
     placeAddedHandler=(placeName)=>{
