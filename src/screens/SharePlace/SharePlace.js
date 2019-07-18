@@ -4,9 +4,12 @@ import {connect} from 'react-redux'
 import {addPlace} from '../../store/actions'
 import {bindActionCreators} from "redux";
 import PlaceInput from '../../components/PlaceInput/PlaceInput'
+import {Navigation} from 'react-native-navigation'
 
 class SharePlace extends Component{
     
+    
+
     placeAddedHandler=(placeName)=>{
         this.props.actions.addPlace(placeName);
     }

@@ -1,6 +1,7 @@
 import {Navigation} from 'react-native-navigation';
 import Icon from '../../../node_modules/react-native-vector-icons/Ionicons'
 
+
 const startTabs=()=>{
     Promise.all([
     Icon.getImageSource('md-map',30),
