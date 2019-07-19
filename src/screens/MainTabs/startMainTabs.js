@@ -34,7 +34,7 @@ const startTabs=()=>{
                             text:'Find Place',
                             fontFamily:".SFUIDisplay-Bold"
                           },
-                          rightButtons:[{
+                          leftButtons:[{
                             id: 'btn_toggle_drawer',
                             name:'sidemenu-button',
                             icon:sources[2],
