@@ -38,15 +38,14 @@ const startTabs=()=>{
                             id: 'btn_toggle_drawer',
                             name:'sidemenu-button',
                             icon:sources[2],
-                             title:{
-                               text:'menu'
-                             }
+                            color:"orange"
                           }]
                       },  
                       bottomTab: {
                         text:'Find Place',
                         icon: sources[0],
-                        testID: 'FIRST_TAB_BAR_BUTTON'
+                        testID: 'FIRST_TAB_BAR_BUTTON',
+                        selectedIconColor:"orange"
                       },
                     }
                   }
@@ -67,15 +66,14 @@ const startTabs=()=>{
                                 leftButtons:[{
                                   id: 'btn_toggle_drawer2',
                                   icon:sources[2],
-                                   title:{
-                                     text:'menu'
-                                   }
+                                  color:"orange"
                                 }]
                             },
                             bottomTab: {
                             text: 'Share-Place',
                             icon: sources[1],
-                            testID: 'SECOND_TAB_BAR_BUTTON'
+                            testID: 'SECOND_TAB_BAR_BUTTON',
+                            selectedIconColor:"orange"
                           },
                           
                         }

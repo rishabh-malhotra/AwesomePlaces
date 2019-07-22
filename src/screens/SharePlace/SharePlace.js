@@ -49,7 +49,7 @@ class SharePlace extends Component {
 
   placeAddedHandler = () => {
     if(this.state.placeName.trim() !==''){
-        this.props.actions.addPlace(this.state.placeName);
+      this.props.actions.addPlace(this.state.placeName);
     }
   };
   render() {
