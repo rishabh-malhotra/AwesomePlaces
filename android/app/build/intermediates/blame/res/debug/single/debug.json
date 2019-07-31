@@ -1,11 +1,11 @@
 [
     {
-        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_16dp.png.flat",
-        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
-    },
-    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_radio.xml.flat",
@@ -84,6 +84,10 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\887a4aecf9a777b4062275d19be56676\\res\\color\\design_error.xml"
     },
     {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light_focused.xml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\5c2d86ed50d5f23f40e4a46694a77459\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_tabs_icon_color_selector_colored.xml.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\887a4aecf9a777b4062275d19be56676\\res\\color\\mtrl_tabs_icon_color_selector_colored.xml"
     },
@@ -140,16 +144,12 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
-        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
-        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
-    },
-    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_menu_item_action_area.xml.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\887a4aecf9a777b4062275d19be56676\\res\\layout\\design_menu_item_action_area.xml"
     },
     {
-        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_bottom_navigation_item.xml.flat",
-        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\ahbottomnavigation-2.4.9.aar\\2fc15d5e2b365d30c0be942c5cb3e162\\res\\layout\\bottom_navigation_item.xml"
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
@@ -160,12 +160,20 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\fab-1.6.4.aar\\11418b0d8e92d2eed8092a2ceac06445\\res\\anim\\fab_slide_out_to_left.xml"
     },
     {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_bottom_navigation_item.xml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\ahbottomnavigation-2.4.9.aar\\2fc15d5e2b365d30c0be942c5cb3e162\\res\\layout\\bottom_navigation_item.xml"
+    },
+    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_color_highlight_material.xml.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark_focused.xml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\5c2d86ed50d5f23f40e4a46694a77459\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
@@ -228,6 +236,10 @@
         "source": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\5c2d86ed50d5f23f40e4a46694a77459\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
     },
@@ -238,6 +250,10 @@
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-xxhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_amu_bubble_mask.9.png.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\5e842e7b672447d717e1507c1e5b1e6d\\res\\drawable-xhdpi-v4\\amu_bubble_mask.9.png"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
@@ -276,12 +292,12 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_background_cache_hint_selector_material_dark.xml.flat",
-        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
-    },
-    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_background_cache_hint_selector_material_dark.xml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
@@ -320,12 +336,12 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\b15787356e3a639d936e0a210b296923\\res\\layout\\notification_media_action.xml"
     },
     {
-        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_item_material.xml.flat",
-        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\layout\\select_dialog_item_material.xml"
-    },
-    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\interpolator-v21_mtrl_linear_out_slow_in.xml.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\887a4aecf9a777b4062275d19be56676\\res\\interpolator-v21\\mtrl_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_item_material.xml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\layout\\select_dialog_item_material.xml"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
@@ -358,6 +374,10 @@
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_arrow_back_black_rtl_24dp.xml.flat",
         "source": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\node_modules\\react-native-navigation\\lib\\android\\app\\build\\intermediates\\packaged_res\\reactNative57_5\\debug\\drawable-anydpi-v21\\ic_arrow_back_black_rtl_24dp.xml"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_disabled.xml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\5c2d86ed50d5f23f40e4a46694a77459\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_btn_unelevated_state_list_anim.xml.flat",
@@ -452,6 +472,10 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\5c2d86ed50d5f23f40e4a46694a77459\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21_design_bottom_sheet_slide_out.xml.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\887a4aecf9a777b4062275d19be56676\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
     },
@@ -488,6 +512,10 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_btn_stroke_color_selector.xml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\887a4aecf9a777b4062275d19be56676\\res\\color\\mtrl_btn_stroke_color_selector.xml"
+    },
+    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_catalyst_slide_down.xml.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.59.8.aar\\5497f24a7e1fe63e339cbc2c669a7906\\res\\anim\\catalyst_slide_down.xml"
     },
@@ -496,12 +524,12 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.59.8.aar\\5497f24a7e1fe63e339cbc2c669a7906\\res\\drawable\\redbox_top_border_background.xml"
     },
     {
-        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_btn_stroke_color_selector.xml.flat",
-        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\887a4aecf9a777b4062275d19be56676\\res\\color\\mtrl_btn_stroke_color_selector.xml"
-    },
-    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_fab_slide_in_from_right.xml.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\fab-1.6.4.aar\\11418b0d8e92d2eed8092a2ceac06445\\res\\anim\\fab_slide_in_from_right.xml"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_amu_document_nest.kml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\5e842e7b672447d717e1507c1e5b1e6d\\res\\raw\\amu_document_nest.kml"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_arrow_back_black_24dp.png.flat",
@@ -528,12 +556,20 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
     },
     {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_amu_draw_order_ground_overlay.kml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\5e842e7b672447d717e1507c1e5b1e6d\\res\\raw\\amu_draw_order_ground_overlay.kml"
+    },
+    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_text_dark.xml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\5c2d86ed50d5f23f40e4a46694a77459\\res\\color\\common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_design_ic_visibility_off.xml.flat",
@@ -546,6 +582,10 @@
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_fade_out.xml.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\5c2d86ed50d5f23f40e4a46694a77459\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple_overlay_action_mode.xml.flat",
@@ -604,8 +644,20 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark_normal.xml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\5c2d86ed50d5f23f40e4a46694a77459\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light_normal.xml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\5c2d86ed50d5f23f40e4a46694a77459\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_button_bar_material.xml.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark.xml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\5c2d86ed50d5f23f40e4a46694a77459\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat",
@@ -640,12 +692,24 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
     },
     {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light_focused.xml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\5c2d86ed50d5f23f40e4a46694a77459\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\5c2d86ed50d5f23f40e4a46694a77459\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_default.xml.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\color-v23\\abc_tint_default.xml"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-xxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_amu_nested_folders.kml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\5e842e7b672447d717e1507c1e5b1e6d\\res\\raw\\amu_nested_folders.kml"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_black_48dp.png.flat",
@@ -668,6 +732,10 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\887a4aecf9a777b4062275d19be56676\\res\\animator\\design_fab_hide_motion_spec.xml"
     },
     {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark.xml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\5c2d86ed50d5f23f40e4a46694a77459\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
@@ -680,24 +748,28 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\5c2d86ed50d5f23f40e4a46694a77459\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
-        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_spinner_textfield_background_material.xml.flat",
-        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable\\abc_spinner_textfield_background_material.xml"
-    },
-    {
-        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\animator_design_fab_show_motion_spec.xml.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\887a4aecf9a777b4062275d19be56676\\res\\animator\\design_fab_show_motion_spec.xml"
     },
     {
-        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_48dp.png.flat",
-        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_48dp.png"
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_spinner_textfield_background_material.xml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_tab_icon.xml.flat",
@@ -736,8 +808,16 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\5c2d86ed50d5f23f40e4a46694a77459\\res\\drawable-mdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\5c2d86ed50d5f23f40e4a46694a77459\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
@@ -772,8 +852,8 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
-        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\5c2d86ed50d5f23f40e4a46694a77459\\res\\drawable-xxhdpi-v4\\googleg_standard_color_18.png"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_design_tint_password_toggle.xml.flat",
@@ -784,6 +864,10 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_material.xml.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\layout\\abc_alert_dialog_material.xml"
     },
@@ -792,12 +876,12 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\anim\\abc_tooltip_enter.xml"
     },
     {
-        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_edittext.xml.flat",
-        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\color-v23\\abc_tint_edittext.xml"
-    },
-    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\615c4cfea963cf8c1d565b35bb227252\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_edittext.xml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\color-v23\\abc_tint_edittext.xml"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
@@ -832,12 +916,12 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
-        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
-    },
-    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\b15787356e3a639d936e0a210b296923\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
@@ -850,6 +934,10 @@
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_amu_ground_overlay.kml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\5e842e7b672447d717e1507c1e5b1e6d\\res\\raw\\amu_ground_overlay.kml"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
@@ -866,6 +954,10 @@
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_seek_thumb.xml.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\5c2d86ed50d5f23f40e4a46694a77459\\res\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
@@ -924,12 +1016,12 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\615c4cfea963cf8c1d565b35bb227252\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
-        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_design_ic_visibility_off.png.flat",
-        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\887a4aecf9a777b4062275d19be56676\\res\\drawable-hdpi-v4\\design_ic_visibility_off.png"
-    },
-    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_switch_track.xml.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\887a4aecf9a777b4062275d19be56676\\res\\drawable-hdpi-v4\\design_ic_visibility_off.png"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_pressed_holo_light.9.png.flat",
@@ -984,12 +1076,12 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
     },
     {
-        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_select_dialog_material.xml.flat",
-        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\layout\\abc_select_dialog_material.xml"
-    },
-    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_select_dialog_material.xml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_btn_colored_borderless_text_material.xml.flat",
@@ -1004,6 +1096,10 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_amu_text_bubble.xml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\5e842e7b672447d717e1507c1e5b1e6d\\res\\layout\\amu_text_bubble.xml"
+    },
+    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_btn_checkable.xml.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\color\\abc_tint_btn_checkable.xml"
     },
@@ -1012,12 +1108,24 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\color\\abc_tint_spinner.xml"
     },
     {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_amu_unknwown_folder.kml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\5e842e7b672447d717e1507c1e5b1e6d\\res\\raw\\amu_unknwown_folder.kml"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\5c2d86ed50d5f23f40e4a46694a77459\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_design_snackbar_background.xml.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\887a4aecf9a777b4062275d19be56676\\res\\drawable\\design_snackbar_background.xml"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_amu_info_window.xml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\5e842e7b672447d717e1507c1e5b1e6d\\res\\layout\\amu_info_window.xml"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_edit_text_material.xml.flat",
@@ -1034,6 +1142,10 @@
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_disabled.xml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\5c2d86ed50d5f23f40e4a46694a77459\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
@@ -1068,6 +1180,10 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\887a4aecf9a777b4062275d19be56676\\res\\animator\\mtrl_fab_hide_motion_spec.xml"
     },
     {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light.xml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\5c2d86ed50d5f23f40e4a46694a77459\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_catalyst_push_up_in.xml.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.59.8.aar\\5497f24a7e1fe63e339cbc2c669a7906\\res\\anim\\catalyst_push_up_in.xml"
     },
@@ -1082,6 +1198,10 @@
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\5c2d86ed50d5f23f40e4a46694a77459\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_disable_only_material_light.xml.flat",
@@ -1164,8 +1284,16 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.59.8.aar\\5497f24a7e1fe63e339cbc2c669a7906\\res\\anim\\catalyst_push_up_out.xml"
     },
     {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\5c2d86ed50d5f23f40e4a46694a77459\\res\\drawable-xhdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\615c4cfea963cf8c1d565b35bb227252\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_amu_bubble_shadow.9.png.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\5e842e7b672447d717e1507c1e5b1e6d\\res\\drawable-xhdpi-v4\\amu_bubble_shadow.9.png"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_multichoice_material.xml.flat",
@@ -1228,6 +1356,14 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\887a4aecf9a777b4062275d19be56676\\res\\drawable\\design_bottom_navigation_item_background.xml"
     },
     {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_amu_visibility_ground_overlay.kml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\5e842e7b672447d717e1507c1e5b1e6d\\res\\raw\\amu_visibility_ground_overlay.kml"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\5c2d86ed50d5f23f40e4a46694a77459\\res\\drawable-hdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\b15787356e3a639d936e0a210b296923\\res\\layout\\notification_template_media.xml"
     },
@@ -1256,6 +1392,10 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light_normal.xml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\5c2d86ed50d5f23f40e4a46694a77459\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_text_cursor_material.xml.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable\\abc_text_cursor_material.xml"
     },
@@ -1266,6 +1406,10 @@
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_36dp.png.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\5c2d86ed50d5f23f40e4a46694a77459\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
@@ -1280,8 +1424,16 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
     },
     {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_amu_basic_placemark.kml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\5e842e7b672447d717e1507c1e5b1e6d\\res\\raw\\amu_basic_placemark.kml"
+    },
+    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_amu_poly_style_boolean_numeric.kml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\5e842e7b672447d717e1507c1e5b1e6d\\res\\raw\\amu_poly_style_boolean_numeric.kml"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_material.xml.flat",
@@ -1308,6 +1460,10 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\5c2d86ed50d5f23f40e4a46694a77459\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\615c4cfea963cf8c1d565b35bb227252\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
     },
@@ -1332,6 +1488,10 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_amu_ballon_gx_prefix.kml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\5e842e7b672447d717e1507c1e5b1e6d\\res\\raw\\amu_ballon_gx_prefix.kml"
+    },
+    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
@@ -1344,16 +1504,24 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_amu_extended_data.kml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\5e842e7b672447d717e1507c1e5b1e6d\\res\\raw\\amu_extended_data.kml"
+    },
+    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_tooltip_exit.xml.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\anim\\abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_icon.xml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
     },
     {
-        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_icon.xml.flat",
-        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\layout\\abc_list_menu_item_icon.xml"
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light.xml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\5c2d86ed50d5f23f40e4a46694a77459\\res\\drawable\\common_google_signin_btn_icon_light.xml"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_dropdown_item_icons_2line.xml.flat",
@@ -1368,10 +1536,6 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\887a4aecf9a777b4062275d19be56676\\res\\animator-v21\\design_appbar_state_list_animator.xml"
     },
     {
-        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
-        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
-    },
-    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
     },
@@ -1382,6 +1546,10 @@
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_btn_colored_text_material.xml.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
@@ -1398,6 +1566,10 @@
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_up.xml.flat",
         "source": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\node_modules\\react-native-navigation\\lib\\android\\app\\build\\intermediates\\packaged_res\\reactNative57_5\\debug\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\5c2d86ed50d5f23f40e4a46694a77459\\res\\drawable-xhdpi-v4\\googleg_disabled_color_18.png"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_switch_thumb_material_dark.xml.flat",
@@ -1428,12 +1600,20 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\5c2d86ed50d5f23f40e4a46694a77459\\res\\drawable-mdpi-v4\\googleg_standard_color_18.png"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_switch_track.xml.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\5c2d86ed50d5f23f40e4a46694a77459\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
@@ -1448,6 +1628,14 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\615c4cfea963cf8c1d565b35bb227252\\res\\drawable\\notification_bg_low.xml"
     },
     {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_amu_default_balloon.kml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\5e842e7b672447d717e1507c1e5b1e6d\\res\\raw\\amu_default_balloon.kml"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_amu_cdata.kml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\5e842e7b672447d717e1507c1e5b1e6d\\res\\raw\\amu_cdata.kml"
+    },
+    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
@@ -1460,12 +1648,12 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\ahbottomnavigation-2.4.9.aar\\2fc15d5e2b365d30c0be942c5cb3e162\\res\\drawable\\item_background.xml"
     },
     {
-        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat",
-        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
-    },
-    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_support_simple_spinner_dropdown_item.xml.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_cascading_menu_item_layout.xml.flat",
@@ -1492,20 +1680,16 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\color\\abc_hint_foreground_material_dark.xml"
     },
     {
-        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
-    },
-    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_hint_foreground_material_light.xml.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\color\\abc_hint_foreground_material_light.xml"
     },
     {
-        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
-        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
-        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_expanded_menu_layout.xml.flat",
-        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\layout\\abc_expanded_menu_layout.xml"
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -1516,6 +1700,10 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_expanded_menu_layout.xml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_search_api_material.xml.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable\\abc_ic_search_api_material.xml"
     },
@@ -1524,12 +1712,16 @@
         "source": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\node_modules\\react-native-navigation\\lib\\android\\app\\build\\intermediates\\packaged_res\\reactNative57_5\\debug\\drawable-xhdpi-v4\\ic_arrow_back_black_rtl_24dp.png"
     },
     {
-        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_fab_scale_down.xml.flat",
-        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\fab-1.6.4.aar\\11418b0d8e92d2eed8092a2ceac06445\\res\\anim\\fab_scale_down.xml"
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_amu_multigeometry_placemarks.kml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\5e842e7b672447d717e1507c1e5b1e6d\\res\\raw\\amu_multigeometry_placemarks.kml"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_design_bottom_navigation_item_background.xml.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\887a4aecf9a777b4062275d19be56676\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_fab_scale_down.xml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\fab-1.6.4.aar\\11418b0d8e92d2eed8092a2ceac06445\\res\\anim\\fab_scale_down.xml"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
@@ -1548,16 +1740,20 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_amu_ground_overlay_color.kml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\5e842e7b672447d717e1507c1e5b1e6d\\res\\raw\\amu_ground_overlay_color.kml"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_design_password_eye.xml.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\887a4aecf9a777b4062275d19be56676\\res\\drawable\\design_password_eye.xml"
     },
     {
-        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_36dp.png.flat",
-        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_menu_overflow_material.xml.flat",
@@ -1576,16 +1772,20 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
     },
     {
-        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_tick_mark_material.xml.flat",
-        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
-    },
-    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_mtrl_chip_checked_black.xml.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\887a4aecf9a777b4062275d19be56676\\res\\drawable\\ic_mtrl_chip_checked_black.xml"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\5c2d86ed50d5f23f40e4a46694a77459\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_tick_mark_material.xml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
@@ -1636,8 +1836,16 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\5c2d86ed50d5f23f40e4a46694a77459\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_dark.xml.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_amu_basic_folder.kml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\5e842e7b672447d717e1507c1e5b1e6d\\res\\raw\\amu_basic_folder.kml"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_default_mtrl_shape.xml.flat",
@@ -1646,6 +1854,10 @@
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\interpolator_mtrl_fast_out_slow_in.xml.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\887a4aecf9a777b4062275d19be56676\\res\\interpolator\\mtrl_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_amu_multiple_placemarks.kml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\5e842e7b672447d717e1507c1e5b1e6d\\res\\raw\\amu_multiple_placemarks.kml"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_subheader.xml.flat",
@@ -1660,6 +1872,10 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\5c2d86ed50d5f23f40e4a46694a77459\\res\\drawable-xhdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
         "source": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
@@ -1672,12 +1888,16 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_cab_background_internal_bg.xml.flat",
-        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable\\abc_cab_background_internal_bg.xml"
-    },
-    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4_ic_arrow_back_black_24dp.png.flat",
         "source": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\node_modules\\react-native-navigation\\lib\\android\\app\\build\\intermediates\\packaged_res\\reactNative57_5\\debug\\drawable-ldpi-v4\\ic_arrow_back_black_24dp.png"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_amu_nested_multigeometry.kml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\5e842e7b672447d717e1507c1e5b1e6d\\res\\raw\\amu_nested_multigeometry.kml"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_cab_background_internal_bg.xml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_seek_thumb.xml.flat",
@@ -1728,12 +1948,24 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
     },
     {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\5c2d86ed50d5f23f40e4a46694a77459\\res\\drawable-hdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mtrl_tabs_default_indicator.xml.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\887a4aecf9a777b4062275d19be56676\\res\\drawable\\mtrl_tabs_default_indicator.xml"
     },
     {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\5c2d86ed50d5f23f40e4a46694a77459\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_amu_bubble_mask.9.png.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\5e842e7b672447d717e1507c1e5b1e6d\\res\\drawable-xxhdpi-v4\\amu_bubble_mask.9.png"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_item_layout.xml.flat",
@@ -1744,12 +1976,16 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_light.xml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\615c4cfea963cf8c1d565b35bb227252\\res\\layout\\notification_action_tombstone.xml"
     },
     {
-        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_light.xml.flat",
-        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_amu_webview.xml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\5e842e7b672447d717e1507c1e5b1e6d\\res\\layout\\amu_webview.xml"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
@@ -1760,16 +1996,20 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_amu_unsupported.kml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\5e842e7b672447d717e1507c1e5b1e6d\\res\\raw\\amu_unsupported.kml"
+    },
+    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_voice_search_api_material.xml.flat",
-        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable\\abc_ic_voice_search_api_material.xml"
-    },
-    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_arrow_back_black_rtl_24dp.png.flat",
         "source": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\node_modules\\react-native-navigation\\lib\\android\\app\\build\\intermediates\\packaged_res\\reactNative57_5\\debug\\drawable-xxhdpi-v4\\ic_arrow_back_black_rtl_24dp.png"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_voice_search_api_material.xml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_design_ic_visibility.png.flat",
@@ -1784,6 +2024,10 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\5c2d86ed50d5f23f40e4a46694a77459\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\615c4cfea963cf8c1d565b35bb227252\\res\\drawable\\notification_icon_background.xml"
     },
@@ -1794,6 +2038,10 @@
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20_abc_alert_dialog_button_bar_material.xml.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\layout-watch-v20\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\5c2d86ed50d5f23f40e4a46694a77459\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_btn_text_btn_ripple_color.xml.flat",
@@ -1816,12 +2064,12 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
     },
     {
-        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
-    },
-    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\615c4cfea963cf8c1d565b35bb227252\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
@@ -1860,12 +2108,16 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
-        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
-        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\5c2d86ed50d5f23f40e4a46694a77459\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
@@ -1888,6 +2140,10 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
     {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_text_light.xml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\5c2d86ed50d5f23f40e4a46694a77459\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_fab_transformation_sheet_expand_spec.xml.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\887a4aecf9a777b4062275d19be56676\\res\\animator\\mtrl_fab_transformation_sheet_expand_spec.xml"
     },
@@ -1908,12 +2164,16 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\887a4aecf9a777b4062275d19be56676\\res\\animator\\mtrl_btn_state_list_anim.xml"
     },
     {
-        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
-        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_tint.xml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\5c2d86ed50d5f23f40e4a46694a77459\\res\\color\\common_google_signin_btn_tint.xml"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
@@ -1928,16 +2188,20 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.59.8.aar\\5497f24a7e1fe63e339cbc2c669a7906\\res\\layout\\redbox_item_frame.xml"
     },
     {
-        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\interpolator_mtrl_fast_out_linear_in.xml.flat",
-        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\887a4aecf9a777b4062275d19be56676\\res\\interpolator\\mtrl_fast_out_linear_in.xml"
-    },
-    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\interpolator_mtrl_fast_out_linear_in.xml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\887a4aecf9a777b4062275d19be56676\\res\\interpolator\\mtrl_fast_out_linear_in.xml"
+    },
+    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_dialog_material_background.xml.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_amu_poly_style_boolean_alpha.kml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\5e842e7b672447d717e1507c1e5b1e6d\\res\\raw\\amu_poly_style_boolean_alpha.kml"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_tabs_icon_color_selector.xml.flat",
@@ -1992,12 +2256,12 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
     {
-        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_design_ic_visibility_off.png.flat",
-        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\887a4aecf9a777b4062275d19be56676\\res\\drawable-xhdpi-v4\\design_ic_visibility_off.png"
-    },
-    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_design_ic_visibility.png.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\887a4aecf9a777b4062275d19be56676\\res\\drawable-xxhdpi-v4\\design_ic_visibility.png"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\887a4aecf9a777b4062275d19be56676\\res\\drawable-xhdpi-v4\\design_ic_visibility_off.png"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_item_background.xml.flat",
@@ -2006,6 +2270,10 @@
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
         "source": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\5c2d86ed50d5f23f40e4a46694a77459\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_ic_arrow_back_black_24dp.png.flat",
@@ -2024,12 +2292,12 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\887a4aecf9a777b4062275d19be56676\\res\\layout\\design_navigation_item.xml"
     },
     {
-        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
-        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
-    },
-    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -2068,6 +2336,10 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
     {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\raw_amu_inline_style.kml.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\5e842e7b672447d717e1507c1e5b1e6d\\res\\raw\\amu_inline_style.kml"
+    },
+    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
     },
@@ -2086,6 +2358,10 @@
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_redbox_item_title.xml.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\react-native-0.59.8.aar\\5497f24a7e1fe63e339cbc2c669a7906\\res\\layout\\redbox_item_title.xml"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-16.1.0.aar\\5c2d86ed50d5f23f40e4a46694a77459\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_focused_holo.9.png.flat",
@@ -2108,6 +2384,10 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\anim\\abc_popup_exit.xml"
     },
     {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\interpolator_mtrl_linear_out_slow_in.xml.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\887a4aecf9a777b4062275d19be56676\\res\\interpolator\\mtrl_linear_out_slow_in.xml"
     },
@@ -2116,23 +2396,23 @@
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
-        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
-    },
-    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_edittext.xml.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_amu_bubble_shadow.9.png.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\android-maps-utils-0.5.aar\\5e842e7b672447d717e1507c1e5b1e6d\\res\\drawable-xxhdpi-v4\\amu_bubble_shadow.9.png"
     },
     {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
-        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
-        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png"
-    },
-    {
         "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_mtrl_chip_close_circle.xml.flat",
         "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\design-28.0.0.aar\\887a4aecf9a777b4062275d19be56676\\res\\drawable\\ic_mtrl_chip_close_circle.xml"
+    },
+    {
+        "merged": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\bd0f4b07a967344ccb180e33650934a4\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png"
     }
 ]

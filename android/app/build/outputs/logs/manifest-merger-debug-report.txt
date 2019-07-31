@@ -1,10 +1,11 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\android\app\src\main\AndroidManifest.xml:1:1-26:12
-INJECTED from D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\android\app\src\main\AndroidManifest.xml:1:1-26:12
-INJECTED from D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\android\app\src\main\AndroidManifest.xml:1:1-26:12
-INJECTED from D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\android\app\src\main\AndroidManifest.xml:1:1-26:12
-MERGED from D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\android\app\src\main\AndroidManifest.xml:1:1-26:12
+ADDED from D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\android\app\src\main\AndroidManifest.xml:1:1-31:12
+INJECTED from D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\android\app\src\main\AndroidManifest.xml:1:1-31:12
+INJECTED from D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\android\app\src\main\AndroidManifest.xml:1:1-31:12
+INJECTED from D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\android\app\src\main\AndroidManifest.xml:1:1-31:12
+MERGED from D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\android\app\src\main\AndroidManifest.xml:1:1-31:12
+MERGED from [:react-native-maps] D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-12:12
 MERGED from [:react-native-vector-icons] D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-navigation] D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\node_modules\react-native-navigation\lib\android\app\build\intermediates\library_manifest\reactNative57_5Debug\AndroidManifest.xml:2:1-17:12
 MERGED from [com.facebook.react:react-native:0.59.8] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\react-native-0.59.8.aar\5497f24a7e1fe63e339cbc2c669a7906\AndroidManifest.xml:2:1-13:12
@@ -12,6 +13,11 @@ MERGED from [com.github.wix-playground:ahbottomnavigation:2.4.9] C:\Users\rishab
 MERGED from [com.android.support:design:28.0.0] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\887a4aecf9a777b4062275d19be56676\AndroidManifest.xml:17:1-24:12
 MERGED from [com.github.wix-playground:reflow-animator:1.0.4] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\reflow-animator-1.0.4.aar\bd0c5daeef91aa03c8610f3bd309d635\AndroidManifest.xml:2:1-12:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\bd0f4b07a967344ccb180e33650934a4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\08465ad2073964e96deb80fd3c62361c\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-base:16.1.0] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\play-services-base-16.1.0.aar\5c2d86ed50d5f23f40e4a46694a77459\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\5e842e7b672447d717e1507c1e5b1e6d\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\15050a96077984270d50ee0e9d7b9320\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.2.0.aar\3eb394e5107a511c481bfcff13d9a158\AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-v4:28.0.0] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\63a6a5ddde1e2a00e2f65ba8e5584e77\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\345fa173d9d7a211979f708b73284398\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\4a9c57752d015bc59ec4b5fae6c6ebd4\AndroidManifest.xml:17:1-22:12
@@ -60,24 +66,28 @@ INJECTED from D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\andr
 		INJECTED from D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\android\app\src\debug\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\android\app\src\main\AndroidManifest.xml
-		ADDED from D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		ADDED from D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\android\app\src\main\AndroidManifest.xml:1:1-31:12
 		INJECTED from D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\android\app\src\debug\AndroidManifest.xml
 	xmlns:tools
 		ADDED from D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\android\app\src\debug\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\android\app\src\main\AndroidManifest.xml
-		ADDED from D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		ADDED from D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\android\app\src\main\AndroidManifest.xml:1:1-31:12
 		INJECTED from D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\android\app\src\debug\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\android\app\src\main\AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
 ADDED from D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [:react-native-maps] D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\08465ad2073964e96deb80fd3c62361c\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\08465ad2073964e96deb80fd3c62361c\AndroidManifest.xml:24:5-67
 	android:name
 		ADDED from D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\android\app\src\main\AndroidManifest.xml:4:22-64
 application
-ADDED from D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\android\app\src\main\AndroidManifest.xml:6:5-24:19
-MERGED from D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\android\app\src\main\AndroidManifest.xml:6:5-24:19
-MERGED from D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\android\app\src\main\AndroidManifest.xml:6:5-24:19
+ADDED from D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\android\app\src\main\AndroidManifest.xml:6:5-30:19
+MERGED from D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\android\app\src\main\AndroidManifest.xml:6:5-30:19
+MERGED from D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\android\app\src\main\AndroidManifest.xml:6:5-30:19
 MERGED from [:react-native-navigation] D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\node_modules\react-native-navigation\lib\android\app\build\intermediates\library_manifest\reactNative57_5Debug\AndroidManifest.xml:11:5-15:19
 MERGED from [:react-native-navigation] D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\node_modules\react-native-navigation\lib\android\app\build\intermediates\library_manifest\reactNative57_5Debug\AndroidManifest.xml:11:5-15:19
 MERGED from [com.facebook.react:react-native:0.59.8] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\react-native-0.59.8.aar\5497f24a7e1fe63e339cbc2c669a7906\AndroidManifest.xml:11:5-20
@@ -86,6 +96,16 @@ MERGED from [com.github.wix-playground:ahbottomnavigation:2.4.9] C:\Users\rishab
 MERGED from [com.github.wix-playground:ahbottomnavigation:2.4.9] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\ahbottomnavigation-2.4.9.aar\2fc15d5e2b365d30c0be942c5cb3e162\AndroidManifest.xml:11:5-20
 MERGED from [com.android.support:design:28.0.0] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\887a4aecf9a777b4062275d19be56676\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:28.0.0] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\887a4aecf9a777b4062275d19be56676\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\08465ad2073964e96deb80fd3c62361c\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\08465ad2073964e96deb80fd3c62361c\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-base:16.1.0] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\play-services-base-16.1.0.aar\5c2d86ed50d5f23f40e4a46694a77459\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.1.0] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\play-services-base-16.1.0.aar\5c2d86ed50d5f23f40e4a46694a77459\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\5e842e7b672447d717e1507c1e5b1e6d\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\5e842e7b672447d717e1507c1e5b1e6d\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\15050a96077984270d50ee0e9d7b9320\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\15050a96077984270d50ee0e9d7b9320\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.2.0.aar\3eb394e5107a511c481bfcff13d9a158\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.2.0.aar\3eb394e5107a511c481bfcff13d9a158\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:support-compat:28.0.0] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\615c4cfea963cf8c1d565b35bb227252\AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:support-compat:28.0.0] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\615c4cfea963cf8c1d565b35bb227252\AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\7c313ea74fdee86c19eb1ad9285f5d4f\AndroidManifest.xml:22:5-23:19
@@ -148,10 +168,26 @@ MERGED from [:react-native-navigation] D:\myworkspace\React Native\new_project\A
 		ADDED from [:react-native-navigation] D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\node_modules\react-native-navigation\lib\android\app\build\intermediates\library_manifest\reactNative57_5Debug\AndroidManifest.xml:14:13-37
 	android:name
 		ADDED from D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\android\app\src\main\AndroidManifest.xml:23:17-81
+meta-data#com.google.android.geo.API_KEY
+ADDED from D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\android\app\src\main\AndroidManifest.xml:24:7-26:67
+	android:value
+		ADDED from D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\android\app\src\main\AndroidManifest.xml:26:9-64
+	android:name
+		ADDED from D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\android\app\src\main\AndroidManifest.xml:25:9-54
+uses-library#org.apache.http.legacy
+ADDED from D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\android\app\src\main\AndroidManifest.xml:27:8-29:34
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\08465ad2073964e96deb80fd3c62361c\AndroidManifest.xml:33:9-35:40
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\08465ad2073964e96deb80fd3c62361c\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\android\app\src\main\AndroidManifest.xml:29:7-31
+	android:name
+		ADDED from D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\android\app\src\main\AndroidManifest.xml:28:7-44
 uses-sdk
 INJECTED from D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\android\app\src\main\AndroidManifest.xml
 INJECTED from D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-maps] D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-vector-icons] D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-vector-icons] D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-navigation] D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\node_modules\react-native-navigation\lib\android\app\build\intermediates\library_manifest\reactNative57_5Debug\AndroidManifest.xml:7:5-9:41
@@ -166,6 +202,16 @@ MERGED from [com.github.wix-playground:reflow-animator:1.0.4] C:\Users\rishabhma
 MERGED from [com.github.wix-playground:reflow-animator:1.0.4] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\reflow-animator-1.0.4.aar\bd0c5daeef91aa03c8610f3bd309d635\AndroidManifest.xml:8:5-10:41
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\bd0f4b07a967344ccb180e33650934a4\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\bd0f4b07a967344ccb180e33650934a4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\08465ad2073964e96deb80fd3c62361c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\08465ad2073964e96deb80fd3c62361c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.1.0] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\play-services-base-16.1.0.aar\5c2d86ed50d5f23f40e4a46694a77459\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.1.0] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\play-services-base-16.1.0.aar\5c2d86ed50d5f23f40e4a46694a77459\AndroidManifest.xml:20:5-44
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\5e842e7b672447d717e1507c1e5b1e6d\AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\5e842e7b672447d717e1507c1e5b1e6d\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\15050a96077984270d50ee0e9d7b9320\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\15050a96077984270d50ee0e9d7b9320\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.2.0.aar\3eb394e5107a511c481bfcff13d9a158\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.2.0.aar\3eb394e5107a511c481bfcff13d9a158\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:28.0.0] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\63a6a5ddde1e2a00e2f65ba8e5584e77\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:28.0.0] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\63a6a5ddde1e2a00e2f65ba8e5584e77\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\345fa173d9d7a211979f708b73284398\AndroidManifest.xml:20:5-44
@@ -254,3 +300,33 @@ uses-permission#android.permission.SYSTEM_ALERT_WINDOW
 ADDED from D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\android\app\src\debug\AndroidManifest.xml:5:5-77
 	android:name
 		ADDED from D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\android\app\src\debug\AndroidManifest.xml:5:22-75
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:react-native-maps] D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [:react-native-maps] D:\myworkspace\React Native\new_project\Awesome\AwesomePlaces\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\08465ad2073964e96deb80fd3c62361c\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\08465ad2073964e96deb80fd3c62361c\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\08465ad2073964e96deb80fd3c62361c\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\08465ad2073964e96deb80fd3c62361c\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\08465ad2073964e96deb80fd3c62361c\AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.1.0] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\play-services-base-16.1.0.aar\5c2d86ed50d5f23f40e4a46694a77459\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\play-services-base-16.1.0.aar\5c2d86ed50d5f23f40e4a46694a77459\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\play-services-base-16.1.0.aar\5c2d86ed50d5f23f40e4a46694a77459\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\play-services-base-16.1.0.aar\5c2d86ed50d5f23f40e4a46694a77459\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\5e842e7b672447d717e1507c1e5b1e6d\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.2.0.aar\3eb394e5107a511c481bfcff13d9a158\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.2.0.aar\3eb394e5107a511c481bfcff13d9a158\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\5e842e7b672447d717e1507c1e5b1e6d\AndroidManifest.xml:10:13-66
+	android:name
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\rishabhmalhotra\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\5e842e7b672447d717e1507c1e5b1e6d\AndroidManifest.xml:9:13-58

@@ -59,6 +59,7 @@
 		DD92E40011704143ACDCB36B /* Zocial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E8E4BAF824634808AA730233 /* Zocial.ttf */; };
 		08C7ABD67218499BACC3D70E /* libReactNativeNavigation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DF0EB699DC5487FBA74BE4C /* libReactNativeNavigation.a */; };
 		B73B47F5880C42539E20DAA1 /* ReactNativeNavigationTests.xctest in Resources */ = {isa = PBXBuildFile; fileRef = EA8885EE20C44A83B7594C90 /* ReactNativeNavigationTests.xctest */; };
+		603D74398E7B49BF98260641 /* libAirMaps.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B37B2D19FB6343A5A7E3A436 /* libAirMaps.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -388,6 +389,8 @@
 		3D5D6BFF3943454EB92A3100 /* ReactNativeNavigation.xcodeproj */ = {isa = PBXFileReference; name = "ReactNativeNavigation.xcodeproj"; path = "../node_modules/react-native-navigation/lib/ios/ReactNativeNavigation.xcodeproj"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.pb-project; explicitFileType = undefined; includeInIndex = 0; };
 		5DF0EB699DC5487FBA74BE4C /* libReactNativeNavigation.a */ = {isa = PBXFileReference; name = "libReactNativeNavigation.a"; path = "libReactNativeNavigation.a"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = archive.ar; explicitFileType = undefined; includeInIndex = 0; };
 		EA8885EE20C44A83B7594C90 /* ReactNativeNavigationTests.xctest */ = {isa = PBXFileReference; name = "ReactNativeNavigationTests.xctest"; path = "ReactNativeNavigationTests.xctest"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.cfbundle; explicitFileType = undefined; includeInIndex = 0; };
+		0BF43E30E1BB4E0B936D1C19 /* AirMaps.xcodeproj */ = {isa = PBXFileReference; name = "AirMaps.xcodeproj"; path = "../node_modules/react-native-maps/lib/ios/AirMaps.xcodeproj"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = wrapper.pb-project; explicitFileType = undefined; includeInIndex = 0; };
+		B37B2D19FB6343A5A7E3A436 /* libAirMaps.a */ = {isa = PBXFileReference; name = "libAirMaps.a"; path = "libAirMaps.a"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = archive.ar; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -419,6 +422,7 @@
 				2E58ABD69ECA425B8FD2BFB4 /* libRNVectorIcons.a in Frameworks */,
 				08C7ABD67218499BACC3D70E /* libReactNativeNavigation.a in Frameworks */,
 				B73B47F5880C42539E20DAA1 /* ReactNativeNavigationTests.xctest in Resources */,
+				603D74398E7B49BF98260641 /* libAirMaps.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -611,6 +615,7 @@
 				139FDEE61B06529A00C62182 /* RCTWebSocket.xcodeproj */,
 				6A8A9B88126542B0A73C9374 /* RNVectorIcons.xcodeproj */,
 				3D5D6BFF3943454EB92A3100 /* ReactNativeNavigation.xcodeproj */,
+				0BF43E30E1BB4E0B936D1C19 /* AirMaps.xcodeproj */,
 			);
 			name = Libraries;
 			sourceTree = "<group>";
@@ -1283,11 +1288,13 @@
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)\..\node_modules\react-native-vector-icons\RNVectorIconsManager",
 					"$(SRCROOT)\..\node_modules\react-native-navigation\lib\ios/**",
+					"$(SRCROOT)\..\node_modules\react-native-maps\lib\ios/**",
 				);
 			};
 			name = Debug;
@@ -1313,11 +1320,13 @@
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)\..\node_modules\react-native-vector-icons\RNVectorIconsManager",
 					"$(SRCROOT)\..\node_modules\react-native-navigation\lib\ios/**",
+					"$(SRCROOT)\..\node_modules\react-native-maps\lib\ios/**",
 				);
 			};
 			name = Release;
@@ -1342,6 +1351,7 @@
 					"$(inherited)",
 					"$(SRCROOT)\..\node_modules\react-native-vector-icons\RNVectorIconsManager",
 					"$(SRCROOT)\..\node_modules\react-native-navigation\lib\ios/**",
+					"$(SRCROOT)\..\node_modules\react-native-maps\lib\ios/**",
 				);
 			};
 			name = Debug;
@@ -1365,6 +1375,7 @@
 					"$(inherited)",
 					"$(SRCROOT)\..\node_modules\react-native-vector-icons\RNVectorIconsManager",
 					"$(SRCROOT)\..\node_modules\react-native-navigation\lib\ios/**",
+					"$(SRCROOT)\..\node_modules\react-native-maps\lib\ios/**",
 				);
 			};
 			name = Release;
@@ -1398,11 +1409,13 @@
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)\..\node_modules\react-native-vector-icons\RNVectorIconsManager",
 					"$(SRCROOT)\..\node_modules\react-native-navigation\lib\ios/**",
+					"$(SRCROOT)\..\node_modules\react-native-maps\lib\ios/**",
 				);
 			};
 			name = Debug;
@@ -1436,11 +1449,13 @@
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)\..\node_modules\react-native-vector-icons\RNVectorIconsManager",
 					"$(SRCROOT)\..\node_modules\react-native-navigation\lib\ios/**",
+					"$(SRCROOT)\..\node_modules\react-native-maps\lib\ios/**",
 				);
 			};
 			name = Release;
@@ -1473,11 +1488,13 @@
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)\..\node_modules\react-native-vector-icons\RNVectorIconsManager",
 					"$(SRCROOT)\..\node_modules\react-native-navigation\lib\ios/**",
+					"$(SRCROOT)\..\node_modules\react-native-maps\lib\ios/**",
 				);
 			};
 			name = Debug;
@@ -1510,11 +1527,13 @@
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 					"\"$(SRCROOT)/$(TARGET_NAME)\"",
+					"\"$(SRCROOT)/$(TARGET_NAME)\"",
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(SRCROOT)\..\node_modules\react-native-vector-icons\RNVectorIconsManager",
 					"$(SRCROOT)\..\node_modules\react-native-navigation\lib\ios/**",
+					"$(SRCROOT)\..\node_modules\react-native-maps\lib\ios/**",
 				);
 			};
 			name = Release;
