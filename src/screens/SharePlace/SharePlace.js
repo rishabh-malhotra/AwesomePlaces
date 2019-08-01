@@ -16,16 +16,30 @@ import MainText from "../../components/UI/MainText/MainText";
 import HeadingText from "../../components/UI/HeadingText/HeadingText";
 import PickImage from "../../components/PickImage/PickImage";
 import PickLocation from "../../components/PickLocation/PickLocation";
+import validate from "../../utility/validation";
 
 class SharePlace extends Component {
   constructor(props) {
     super(props);
     Navigation.events().bindComponent(this);
     this.isSideDrawerVisible = false;
-    this.state = {
-        placeName: ""
-      };
   }
+  state = {
+    controls: {
+      placeName: {
+        value: "",
+        valid: false,
+        touched: false,
+        validationRules: {
+          notEmpty: true
+        }
+      },
+      location:{
+        value:null,
+        valid:false
+      }
+    }
+  };
   navigationButtonPressed({ buttonId }) {
     if (buttonId === "btn_toggle_drawer2") {
       !this.isSideDrawerVisible
@@ -42,15 +56,39 @@ class SharePlace extends Component {
   }
 
   placeNameChangedHandler = val => {
-    this.setState({
-      placeName: val
+    this.setState(prevState => {
+      return {
+        controls: {
+          ...prevState.controls,
+          placeName: {
+            ...prevState.controls.placeName,
+            value: val,
+            valid: validate(val, prevState.controls.placeName.validationRules),
+            touched: true
+          }
+        }
+      };
     });
   };
 
+  locationPickedHandler=(location)=>{
+    this.setState(prevState=>{
+      return {
+        controls:{
+          ...prevState.controls,
+          location:{
+            value:location,
+            valid:true
+          }
+        }
+      }
+    })
+  }
   placeAddedHandler = () => {
-    if(this.state.placeName.trim() !==''){
-      this.props.actions.addPlace(this.state.placeName);
-    }
+      this.props.actions.addPlace(
+        this.state.controls.placeName.value,
+        this.state.controls.location.value
+      );
   };
   render() {
     return (
@@ -60,7 +98,7 @@ class SharePlace extends Component {
             <HeadingText>Share a Place With Us!</HeadingText>
           </MainText>
           <PickImage />
-          <PickLocation />
+          <PickLocation onLocationPicked={this.locationPickedHandler}/>
           <PlaceInput
             placeName={this.state.placeName}
             onChangeText={this.placeNameChangedHandler}
@@ -69,6 +107,9 @@ class SharePlace extends Component {
             <Button
               title="Share the Place!"
               onPress={this.placeAddedHandler}
+              disabled={!this.state.controls.placeName.valid || 
+                        !this.state.controls.location.valid
+                        }
             />
           </View>
         </View>

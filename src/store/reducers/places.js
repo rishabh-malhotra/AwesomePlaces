@@ -13,7 +13,8 @@ const reducer=(state=initialState,action)=>{
                         name:action.placeName,
                         image:{
                           uri:"https://www.planetware.com/photos-large/AUS/australia-beautiful-places-port-douglas.jpg"
-                        }
+                        },
+                        location:action.location
                     })
                 };
             case DELETE_PLACE:
