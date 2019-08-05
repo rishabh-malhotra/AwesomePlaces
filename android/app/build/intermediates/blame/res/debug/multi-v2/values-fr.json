@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\myworkspace\\React Native\\new_project\\Awesome\\AwesomePlaces\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr\\values-fr.xml",
+            "outputFile": "D:\\myworkspace\\React Native\\new\\AwesomePlaces\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr\\values-fr.xml",
             "map": [
                 {
                     "source": "C:\\Users\\rishabhmalhotra\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-16.2.0.aar\\3eb394e5107a511c481bfcff13d9a158\\res\\values-fr\\values.xml",
